@@ -19,7 +19,7 @@ This project was developed using React.js(a free and open-source front-end JavaS
   Check package.json for available scripts
   
   # Json-server:
-    Navigate to server directory and enter below commands
+     Navigate to server directory and enter below commands
   #  To install all the packages for json-server- 
          npm install
   #  To start the json-server run-
