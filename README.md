@@ -24,5 +24,5 @@ This project was developed using React.js(a free and open-source front-end JavaS
          npm install
   #  To start the json-server run-
          npm start
-    The json-server runs on port 3001
+  The json-server runs on port 3001
 Open browser and type http://localhost:3000/
