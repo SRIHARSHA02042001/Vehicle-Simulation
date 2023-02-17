@@ -17,7 +17,7 @@ This project was developed using React.js(a free and open-source front-end JavaS
    # To start the application in development mode run-
        npm start
   Check package.json for available scripts
-  The application runs on port 3000
+  
   # Json-server:
     Navigate to server directory and enter below commands
   #  To install all the packages for json-server- 
