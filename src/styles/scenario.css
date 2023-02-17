@@ -1,0 +1,17 @@
+.scenario-container{
+    border: 1px solid black;
+    padding: 40px;
+    background-color: lightgray;
+    border-spacing: 30px;
+}
+.scenario-container input{
+    width: 250px;
+}
+.scenario-container label{
+    font-size: 17px;
+}
+#formButton{
+    padding: 10px;
+    border:none;
+    color: white;
+}

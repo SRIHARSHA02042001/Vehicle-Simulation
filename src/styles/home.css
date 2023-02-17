@@ -1,0 +1,36 @@
+.graph {
+    position: absolute;
+    width: 17px;
+    height: 10px;
+    border-radius: 12px;
+    background-color: blue;
+    font-size: 9px;
+    color: white;
+    text-align: center;
+  }
+  .graph-box {
+    position: relative;
+    height: 370px;
+    width: 800px;
+    border: 1px solid #ccc;
+  }
+  .graph-box::before, .graph-box::after {
+    content: "";
+    position: absolute;
+    height: 1px;
+    background-color: black;
+  }
+  
+  .graph-box::before {
+    top: 8%;
+    left: 0;
+    width: 100%;
+  }
+  
+  .graph-box::after {
+    top: 0;
+    left: 8%;
+    width: 1px;
+    height: 100%;
+  }
+  

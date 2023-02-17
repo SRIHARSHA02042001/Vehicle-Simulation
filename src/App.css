@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+button:hover{
+  cursor: pointer;
+}
+.add-button{
+  background-color: green;
+}
+.reset-button{
+  background-color: orange;
+}
+.back-button{
+  background-color: blue;
+}

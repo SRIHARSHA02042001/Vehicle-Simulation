@@ -1,0 +1,17 @@
+.vehicle-container{
+    border: 1px solid black;
+    padding: 50px;
+    background-color: lightgray;
+}
+.vehicle-container td{
+    padding: 15px;
+}
+.vehicle-container input{
+    width: 200px;
+}
+.vehicle-container select{
+    width: 210px;
+}
+.vehicle-container label{
+    font-size: 18px;
+}
