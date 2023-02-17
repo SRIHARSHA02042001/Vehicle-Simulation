@@ -18,11 +18,11 @@ This project was developed using React.js(a free and open-source front-end JavaS
         `npm start`
         
   
-  # Json-server:
+ # Json-server:
    #### Navigate to server directory and enter below commands
-    - To install all the packages for json-server- 
+   - To install all the packages for json-server- 
            `npm install`
-    - To start the json-server run-
+   - To start the json-server run-
             `npm start`
  The json-server runs on port 3001
 
