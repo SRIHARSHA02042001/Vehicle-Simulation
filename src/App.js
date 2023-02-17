@@ -10,7 +10,7 @@ function App() {
     <div>
       <SideBar>
           <Routes>
-            <Route path='/' element={<Home/>}></Route>
+            <Route exact path='/' element={<Home/>}></Route>
             <Route path='home' element={<Home/>}></Route>
             <Route path='add_vehicle' element={<AddVehicle/>}></Route>
             <Route path='add_scenario' element={<AddScenario/>}></Route>
