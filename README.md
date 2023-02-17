@@ -13,17 +13,17 @@ This project was developed using React.js(a free and open-source front-end JavaS
  # Front-End:
    #### Navigate to project directory and enter following commands
    - To install all the packages required for application to run-
-        npm install
+        `npm install`
    - To start the application in development mode run-
-        npm start
+        `npm start`
   Check package.json for available scripts
   
   # Json-server:
-    #### Navigate to server directory and enter below commands
-      -  To install all the packages for json-server- 
-            npm install
-      -  To start the json-server run-
-            npm start
+   #### Navigate to server directory and enter below commands
+     -  To install all the packages for json-server- 
+           `npm install`
+     -  To start the json-server run-
+            `npm start`
  The json-server runs on port 3001
 
 To access UI Open browser and type http://localhost:3000/
