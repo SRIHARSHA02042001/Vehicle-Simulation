@@ -15,6 +15,7 @@ function App() {
             <Route path='add_vehicle' element={<AddVehicle/>}></Route>
             <Route path='add_scenario' element={<AddScenario/>}></Route>
             <Route path='all_scenarios' element={<AllScenarios/>}></Route>
+            <Route path='*' element={<h1>No Page Found</h1>}></Route>
           </Routes>
         </SideBar>
     </div>
